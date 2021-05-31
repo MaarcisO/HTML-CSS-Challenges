@@ -56,6 +56,10 @@ h3 {
   font-size: 150%;
 }
 
+p {
+  word-spacing: 7px;
+}
+
 button {
   display: inline-block;
   border-radius: 3px;
