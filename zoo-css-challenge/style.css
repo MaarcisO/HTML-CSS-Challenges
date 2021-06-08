@@ -230,3 +230,8 @@ footer {
 #logo {
   border: 0;
 }
+
+.programs-card {
+  display: flex;
+  flex-direction: row;
+}
