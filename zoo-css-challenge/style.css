@@ -218,7 +218,7 @@ footer {
 
 .membership p {
   max-width: 700px;
-  margin-left: 500px;
+  margin: auto;
 }
 
 /*Programs*/
@@ -231,7 +231,11 @@ footer {
   border: 0;
 }
 
-.programs-card {
+.programs .programs-card {
   display: flex;
   flex-direction: row;
+}
+
+.title-news {
+  margin-left: 30em;
 }
